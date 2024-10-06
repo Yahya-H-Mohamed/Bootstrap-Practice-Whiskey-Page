@@ -23,7 +23,7 @@ body{
     background-color: #eec802;
     border-color: #eec802;
     color: #544600;
-    color: 1px solid transparent;
+    border: 1px solid transparent;
 }
 
 .callout-container{
@@ -132,6 +132,7 @@ body{
 
 .jumbotron{
     background-color: transparent;
+    margin-top: 200px;
 }
 
 .jumbotron h1{
